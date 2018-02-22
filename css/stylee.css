@@ -32,7 +32,7 @@
 
 
 #first-slider .carousel-indicators {
-  bottom: 0;
+  bottom: -30px;
 }
 #first-slider .carousel-control.right,
 #first-slider .carousel-control.left {
